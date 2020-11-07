@@ -210,7 +210,7 @@ define('UPLOADED_FILES_FOLDER', ROOT_DIR.'/upload/files/');
 define('UPLOADED_FILES_URL', 'upload/files/');
 
 /* Cache folder */
-define('JSON_CACHE_DIR', ROOT_DIR.DS.'cache'); 
+define('JSON_CACHE_DIR', ROOT_DIR.DS.'cache');
 
 /**
  * Define the folder where the uploaded files are stored before
@@ -229,11 +229,11 @@ define('CLIENT_UPLOADS_TEMP_FOLDER', ROOT_DIR.'/upload/temp');
  * on the footer blocks.
  *
  */
-define('SYSTEM_URI','https://www.projectsend.org/');
-define('SYSTEM_URI_LABEL','ProjectSend on github');
-define('DONATIONS_URL','https://www.projectsend.org/donations/');
+define('SYSTEM_URI','https://www.ilotsante.be/');
+define('SYSTEM_URI_LABEL','Ilot Santé');
+define('DONATIONS_URL','https://www.ilotsante.be/');
 /** Previously cFTP */
-define('SYSTEM_NAME','ProjectSend');
+define('SYSTEM_NAME','Ilot Santé');
 
 define('LOGO_FOLDER',ROOT_DIR.'/img/custom/logo/');
 define('LOGO_THUMB_FOLDER',ROOT_DIR.'/img/custom/thumbs/');
