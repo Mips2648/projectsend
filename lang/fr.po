@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProjectSend\n"
 "POT-Creation-Date: 2018-05-23 11:16-0300\n"
-"PO-Revision-Date: 2020-10-26 16:52+0100\n"
+"PO-Revision-Date: 2020-11-07 18:54+0100\n"
 "Last-Translator: Florian <florian@proximite-client.fr>\n"
 "Language-Team: French (http://www.transifex.com/subwaydesign/projectsend/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +70,8 @@ msgstr "Filtrer les activités"
 msgid "All activities"
 msgstr "Toutes"
 
-#: actions-log.php:146 clients.php:179 manage-files.php:421 manage-files.php:447 users.php:236
+#: actions-log.php:146 clients.php:179 manage-files.php:421
+#: manage-files.php:447 users.php:236
 msgid "Filter"
 msgstr "Filtrer"
 
@@ -78,7 +79,9 @@ msgstr "Filtrer"
 msgid "Activities actions"
 msgstr "Actions pour les activités sélectionnées"
 
-#: actions-log.php:161 categories.php:249 clients-membership-requests.php:254 clients-requests.php:279 clients.php:194 groups.php:220 manage-files.php:478 users.php:251
+#: actions-log.php:161 categories.php:249 clients-membership-requests.php:254
+#: clients-requests.php:279 clients.php:194 groups.php:220 manage-files.php:478
+#: users.php:251
 msgid "Select action"
 msgstr "Choisir une action"
 
@@ -94,11 +97,15 @@ msgstr "Supprimer la sélection"
 msgid "Clear entire log"
 msgstr "Effacer toutes les données du journal"
 
-#: actions-log.php:174 categories.php:260 clients-membership-requests.php:266 clients-requests.php:291 clients.php:207 groups.php:231 manage-files.php:500 users.php:264
+#: actions-log.php:174 categories.php:260 clients-membership-requests.php:266
+#: clients-requests.php:291 clients.php:207 groups.php:231 manage-files.php:500
+#: users.php:264
 msgid "Proceed"
 msgstr "Procéder"
 
-#: actions-log.php:181 categories.php:268 clients-membership-requests.php:273 clients-requests.php:298 clients.php:214 groups.php:238 manage-files.php:511 users.php:271
+#: actions-log.php:181 categories.php:268 clients-membership-requests.php:273
+#: clients-requests.php:298 clients.php:214 groups.php:238 manage-files.php:511
+#: users.php:271
 msgid "Found"
 msgstr "Trouvé"
 
@@ -106,7 +113,9 @@ msgstr "Trouvé"
 msgid "activities"
 msgstr "activités"
 
-#: actions-log.php:191 clients-membership-requests.php:308 clients-requests.php:333 clients.php:227 groups.php:251 manage-files.php:527 users.php:283
+#: actions-log.php:191 clients-membership-requests.php:308
+#: clients-requests.php:333 clients.php:227 groups.php:251 manage-files.php:527
+#: users.php:283
 msgid "The filters you selected returned no results."
 msgstr "Le filtre utilisé ne donne aucun résultat."
 
@@ -134,7 +143,8 @@ msgstr "Créer"
 msgid "Save"
 msgstr "Sauvegarder"
 
-#: categories-form.php:27 categories.php:307 clients-form.php:125 options.php:607 users-form.php:87
+#: categories-form.php:27 categories.php:307 clients-form.php:125
+#: options.php:607 users-form.php:87
 msgid "Name"
 msgstr "Nom"
 
@@ -146,7 +156,9 @@ msgstr "Parent"
 msgid "None"
 msgstr "Aucun"
 
-#: categories-form.php:49 categories.php:313 edit-file.php:381 groups-form.php:45 groups.php:294 upload-process-form.php:289 upload-process-form.php:486
+#: categories-form.php:49 categories.php:313 edit-file.php:381
+#: groups-form.php:45 groups.php:294 upload-process-form.php:289
+#: upload-process-form.php:486
 msgid "Description"
 msgstr "Description"
 
@@ -194,7 +206,8 @@ msgstr "Veuillez compléter tous les champs requis."
 msgid "Selected categories actions"
 msgstr "Actions pour les catégories sélectionnées"
 
-#: categories.php:250 clients.php:197 groups.php:221 manage-files.php:489 users.php:254
+#: categories.php:250 clients.php:197 groups.php:221 manage-files.php:489
+#: users.php:254
 msgid "Delete"
 msgstr "Supprimer"
 
@@ -202,7 +215,9 @@ msgstr "Supprimer"
 msgid "categories"
 msgstr "catégories"
 
-#: categories.php:278 clients-membership-requests.php:305 clients-requests.php:330 clients.php:224 groups.php:248 manage-files.php:521 upload-import-orphans.php:277 users.php:280
+#: categories.php:278 clients-membership-requests.php:305
+#: clients-requests.php:330 clients.php:224 groups.php:248 manage-files.php:521
+#: upload-import-orphans.php:277 users.php:280
 msgid "Your search keywords returned no results."
 msgstr "Votre recherche n'a retourné aucun résultat."
 
@@ -210,7 +225,9 @@ msgstr "Votre recherche n'a retourné aucun résultat."
 msgid "There are no categories yet."
 msgstr "Il n'y a pas de catégorie pour le moment."
 
-#: categories.php:310 clients.php:482 groups.php:301 groups.php:398 header-menu.php:69 includes/widgets/system-information.php:47 install/make-config.php:346 options.php:461
+#: categories.php:310 clients.php:482 groups.php:301 groups.php:398
+#: header-menu.php:69 includes/widgets/system-information.php:47
+#: install/make-config.php:346 options.php:461
 msgid "Files"
 msgstr "Fichiers"
 
@@ -218,15 +235,18 @@ msgstr "Fichiers"
 msgid "View"
 msgstr "Voir"
 
-#: categories.php:321 clients.php:328 groups.php:326 manage-files.php:636 upload-import-orphans.php:213 upload-process-form.php:300 users.php:349
+#: categories.php:321 clients.php:328 groups.php:326 manage-files.php:636
+#: upload-import-orphans.php:213 upload-process-form.php:300 users.php:349
 msgid "Actions"
 msgstr "Actions"
 
-#: categories.php:392 header-menu.php:81 header-menu.php:326 manage-files.php:18
+#: categories.php:392 header-menu.php:81 header-menu.php:326
+#: manage-files.php:18
 msgid "Manage files"
 msgstr "Gestion des fichiers"
 
-#: categories.php:395 clients.php:488 groups.php:402 manage-files.php:837 upload-import-orphans.php:244 users.php:420
+#: categories.php:395 clients.php:488 groups.php:402 manage-files.php:837
+#: upload-import-orphans.php:244 users.php:420
 msgid "Edit"
 msgstr "Éditer"
 
@@ -238,7 +258,9 @@ msgstr "Ajouter un patient"
 msgid "Client added correctly."
 msgstr "Patient ajouté avec succès."
 
-#: clients-add.php:122 clients-edit.php:204 email-templates.php:147 groups-add.php:87 groups-edit.php:128 options.php:221 register.php:170 templates.php:59 users-add.php:102 users-edit.php:182
+#: clients-add.php:122 clients-edit.php:204 email-templates.php:147
+#: groups-add.php:87 groups-edit.php:128 options.php:221 register.php:170
+#: templates.php:59 users-add.php:102 users-edit.php:182
 msgid "There was an error. Please try again."
 msgstr "Une erreur s'est produite. Veuillez réessayer."
 
@@ -286,7 +308,8 @@ msgstr "Votre compte ne vous permet pas d'accéder à cette fonctionnalité."
 msgid "Will be visible on the client's file list"
 msgstr "Sera visible sur la liste des fichiers du patient"
 
-#: clients-form.php:74 clients-form.php:86 clients.php:483 edit-file.php:481 includes/widgets/system-information.php:56 upload-process-form.php:576
+#: clients-form.php:74 clients-form.php:86 clients.php:483 edit-file.php:481
+#: includes/widgets/system-information.php:56 upload-process-form.php:576
 msgid "Groups"
 msgstr "Groupes"
 
@@ -310,7 +333,9 @@ msgstr "Demander l'accès aux groupes"
 msgid "Update account"
 msgstr "Mise à jour du compte"
 
-#: clients-form.php:132 clients-membership-requests.php:359 clients-requests.php:379 clients.php:263 install/index.php:291 users-form.php:94 users.php:315
+#: clients-form.php:132 clients-membership-requests.php:359
+#: clients-requests.php:379 clients.php:263 install/index.php:291
+#: users-form.php:94 users.php:315
 msgid "Log in username"
 msgstr "Nom d'utilisateur"
 
@@ -318,15 +343,20 @@ msgstr "Nom d'utilisateur"
 msgid "Must be alphanumeric"
 msgstr "Doit être alphanumérique"
 
-#: clients-form.php:139 includes/vars.php:50 index.php:124 install/index.php:299 install/make-config.php:278 options.php:703 users-form.php:101
+#: clients-form.php:139 includes/vars.php:50 index.php:124
+#: install/index.php:299 install/make-config.php:278 options.php:703
+#: users-form.php:101
 msgid "Password"
 msgstr "Mot de passe"
 
-#: clients-form.php:147 install/index.php:307 reset-password.php:337 users-form.php:109
+#: clients-form.php:147 install/index.php:307 reset-password.php:337
+#: users-form.php:109
 msgid "Generate"
 msgstr "Générer"
 
-#: clients-form.php:153 clients-membership-requests.php:365 clients-requests.php:385 clients.php:269 index.php:119 reset-password.php:288 users-form.php:115 users.php:321
+#: clients-form.php:153 clients-membership-requests.php:365
+#: clients-requests.php:385 clients.php:269 index.php:119
+#: reset-password.php:288 users-form.php:115 users.php:321
 msgid "E-mail"
 msgstr "Courriel"
 
@@ -354,15 +384,18 @@ msgstr "La taille de fichier maximale"
 msgid "Set to 0 to use the default system limit"
 msgstr "Mettre à 0 pour utiliser la limite du système par défaut"
 
-#: clients-form.php:239 edit-file.php:465 edit-file.php:521 groups-form.php:54 upload-process-form.php:562 upload-process-form.php:610
+#: clients-form.php:239 edit-file.php:465 edit-file.php:521 groups-form.php:54
+#: upload-process-form.php:562 upload-process-form.php:610
 msgid "Select one or more options. Type to search."
 msgstr "Choisir une où plusieurs options. Entrer du texte pour chercher."
 
-#: clients-form.php:258 edit-file.php:498 edit-file.php:531 groups-form.php:75 upload-process-form.php:591 upload-process-form.php:620
+#: clients-form.php:258 edit-file.php:498 edit-file.php:531 groups-form.php:75
+#: upload-process-form.php:591 upload-process-form.php:620
 msgid "Add all"
 msgstr "Ajouter tout"
 
-#: clients-form.php:259 edit-file.php:499 edit-file.php:532 groups-form.php:76 upload-process-form.php:592 upload-process-form.php:621
+#: clients-form.php:259 edit-file.php:499 edit-file.php:532 groups-form.php:76
+#: upload-process-form.php:592 upload-process-form.php:621
 msgid "Remove all"
 msgstr "Retirer tout"
 
@@ -386,7 +419,8 @@ msgstr "Vérification"
 msgid "This account information will be e-mailed to the address supplied above"
 msgstr "Les informations sur ce compte seront envoyées par courriel à l'adresse entrée ci-dessus"
 
-#: clients-membership-requests.php:21 clients-membership-requests.php:369 clients-requests.php:393 header-menu.php:148
+#: clients-membership-requests.php:21 clients-membership-requests.php:369
+#: clients-requests.php:393 header-menu.php:148
 msgid "Membership requests"
 msgstr "Demandes d'appartenance à un groupe"
 
@@ -430,7 +464,9 @@ msgstr "Demandes refusées"
 msgid "There are no requests at the moment"
 msgstr "Il n'y a pas de demandes pour le moment"
 
-#: clients-membership-requests.php:354 clients-requests.php:374 clients.php:258 includes/classes/send-email.php:80 includes/classes/send-email.php:139 install/index.php:277 users.php:310
+#: clients-membership-requests.php:354 clients-requests.php:374 clients.php:258
+#: includes/classes/send-email.php:80 includes/classes/send-email.php:139
+#: install/index.php:277 users.php:310
 msgid "Full name"
 msgstr "Nom"
 
@@ -466,7 +502,8 @@ msgstr "Comptes refusés"
 msgid "Account"
 msgstr "Compte"
 
-#: clients-requests.php:406 clients.php:306 groups.php:318 manage-files.php:577 users.php:345
+#: clients-requests.php:406 clients.php:306 groups.php:318 manage-files.php:577
+#: users.php:345
 msgid "Added on"
 msgstr "Ajouté le"
 
@@ -486,7 +523,8 @@ msgstr "Les patients sélectionnés ont été désactivés."
 msgid "All statuses"
 msgstr "Tous les statuts"
 
-#: clients.php:168 clients.php:402 templates.php:116 users.php:225 users.php:373
+#: clients.php:168 clients.php:402 templates.php:116 users.php:225
+#: users.php:373
 msgid "Active"
 msgstr "Actif"
 
@@ -522,7 +560,8 @@ msgstr "Fichiers"
 msgid "Files: Groups"
 msgstr "Fichiers : Groupes"
 
-#: clients.php:287 manage-files.php:617 upload-process-form.php:294 users.php:333
+#: clients.php:287 manage-files.php:617 upload-process-form.php:294
+#: users.php:333
 msgid "Status"
 msgstr "Statut"
 
@@ -538,11 +577,13 @@ msgstr "Notifier"
 msgid "Max. upload size"
 msgstr "La taille de fichier maximale"
 
-#: clients.php:461 download-information.php:203 manage-files.php:697 options.php:950
+#: clients.php:461 download-information.php:203 manage-files.php:697
+#: options.php:950
 msgid "Yes"
 msgstr "Oui"
 
-#: clients.php:461 download-information.php:204 manage-files.php:697 options.php:951
+#: clients.php:461 download-information.php:204 manage-files.php:697
+#: options.php:951
 msgid "No"
 msgstr "Non"
 
@@ -614,7 +655,8 @@ msgstr "Le fichier suivant est maintenant disponible en téléchargement:"
 msgid "Download file"
 msgstr "Télécharger le fichier"
 
-#: download.php:184 policy.php:36 public.php:301 register.php:211 reset-password.php:358
+#: download.php:184 policy.php:36 public.php:301 register.php:211
+#: reset-password.php:358
 msgid "Go back to the homepage."
 msgstr "Retour à la page d'accueil."
 
@@ -638,7 +680,8 @@ msgstr "Vous n'avez pas la permission d'éditer ce fichier."
 msgid "The file has been edited succesfuly."
 msgstr "Le fichier a été édité avec succès."
 
-#: edit-file.php:376 manage-files.php:587 upload-process-form.php:288 upload-process-form.php:481
+#: edit-file.php:376 manage-files.php:587 upload-process-form.php:288
+#: upload-process-form.php:481
 msgid "Title"
 msgstr "Titre"
 
@@ -682,7 +725,9 @@ msgstr "Assignations"
 msgid "Assign this file to"
 msgstr "Assigner ce fichier à"
 
-#: edit-file.php:466 header-menu.php:102 header-menu.php:205 includes/widgets/system-information.php:50 options.php:29 upload-process-form.php:563
+#: edit-file.php:466 header-menu.php:102 header-menu.php:205
+#: includes/widgets/system-information.php:50 options.php:29
+#: upload-process-form.php:563
 msgid "Clients"
 msgstr "Patients"
 
@@ -694,7 +739,8 @@ msgstr "Marquer comme caché (n'enverra pas de notification) aux nouveaux patien
 msgid "Hide from every already assigned clients and groups."
 msgstr "Cacher à tous les patients et groupes déjà assignés."
 
-#: edit-file.php:519 header-menu.php:92 includes/widgets/system-information.php:59 upload-process-form.php:608
+#: edit-file.php:519 header-menu.php:92
+#: includes/widgets/system-information.php:59 upload-process-form.php:608
 msgid "Categories"
 msgstr "Catégories"
 
@@ -766,7 +812,9 @@ msgstr "Ce message sera envoyé au patient dès qu’un nouveau fichier sera ass
 msgid "Shows the list of files"
 msgstr "Affiche la liste des fichiers"
 
-#: email-templates.php:173 email-templates.php:189 email-templates.php:206 email-templates.php:223 email-templates.php:241 email-templates.php:272 email-templates.php:306
+#: email-templates.php:173 email-templates.php:189 email-templates.php:206
+#: email-templates.php:223 email-templates.php:241 email-templates.php:272
+#: email-templates.php:306
 msgid "The login link"
 msgstr "Lien de connexion"
 
@@ -778,7 +826,8 @@ msgstr "Ce message sera envoyé à l’administrateur lorsque qu’un patient tr
 msgid "This email will be sent to the new client after an administrator has created his new account. It would be best to include the log in details (username and password)."
 msgstr "Ce message sera envoyé au nouveau patient lorsque l’administrateur aura créé un nouveau compte. Il est préférable d’inclure les identifiants de connexion (nom d’utilisateur et mot de passe)."
 
-#: email-templates.php:204 email-templates.php:222 email-templates.php:270 email-templates.php:305
+#: email-templates.php:204 email-templates.php:222 email-templates.php:270
+#: email-templates.php:305
 msgid "The new username for this account"
 msgstr "Le nouveau nom d’utilisateur pour ce compte"
 
@@ -950,7 +999,8 @@ msgstr "Nom du groupe"
 msgid "Members"
 msgstr "Membres"
 
-#: groups-form.php:84 groups.php:307 groups.php:359 upload-process-form.php:296 upload-process-form.php:343
+#: groups-form.php:84 groups.php:307 groups.php:359 upload-process-form.php:296
+#: upload-process-form.php:343
 msgid "Public"
 msgstr "Public"
 
@@ -1342,7 +1392,8 @@ msgstr "Un nouveau compte a été créé pour vous. Dès maintenant, vous pouvez
 msgid "You can log in following this link"
 msgstr "Vous pouvez vous connecter directement en cliquant sur ce lien"
 
-#: includes/classes/send-email.php:68 includes/classes/send-email.php:102 includes/classes/send-email.php:109
+#: includes/classes/send-email.php:68 includes/classes/send-email.php:102
+#: includes/classes/send-email.php:109
 msgid "Please contact the administrator if you need further assistance."
 msgstr "Veuillez contacter l'administrateur si vous avez besoin d'aide."
 
@@ -1362,7 +1413,9 @@ msgstr "Un nouveau patient s'est inscrit."
 msgid "A new account was created using the self registration form on your site. Registration information:"
 msgstr "Un nouveau compte  a été créé via un enregistrement personnel  depuis le formulaire de votre site. Information d'enregistrement :"
 
-#: includes/classes/send-email.php:81 includes/classes/send-email.php:130 includes/classes/send-email.php:140 includes/vars.php:49 index.php:119 install/make-config.php:268 options.php:696
+#: includes/classes/send-email.php:81 includes/classes/send-email.php:130
+#: includes/classes/send-email.php:140 includes/vars.php:49 index.php:119
+#: install/make-config.php:268 options.php:696
 msgid "Username"
 msgstr "Nom d'utilisateur"
 
@@ -1956,7 +2009,8 @@ msgstr "Information du système"
 msgid "Software"
 msgstr "Logiciel"
 
-#: includes/widgets/system-information.php:11 includes/widgets/system-information.php:97
+#: includes/widgets/system-information.php:11
+#: includes/widgets/system-information.php:97
 msgid "Version"
 msgstr "Version"
 
@@ -2974,7 +3028,8 @@ msgstr "Merci d’entrer le nouveau mot de passe. Ensuite, vous pourrez l’util
 msgid "Set new password"
 msgstr "Définir un nouveau mot de passe"
 
-#: upload-from-computer.php:20 upload-from-computer.php:165 upload-process-form.php:32
+#: upload-from-computer.php:20 upload-from-computer.php:165
+#: upload-process-form.php:32
 msgid "Upload files"
 msgstr "Transférer les fichiers"
 
